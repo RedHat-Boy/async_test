@@ -1,0 +1,2 @@
+=== JADU LIVE LAB LOGS STARTED ===
+[Terminal Action]: nmap -F 127.0.0.1
