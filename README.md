@@ -191,3 +191,9 @@ q
 ifconfig
 ip addr
 ```
+
+### 🎯 Observation Snapshot
+> Bhai, mujhe background pipe par aapki koi nayi command receive nahi hui, check karein aap kis shell par hain. Agar aap root user par hain, toh aapne jo bhi command chalaye hain, wo background live logs mein nahi dikha rahe hain. Aap mujhe bataiye ki aapne root par kya kiya tha, main aapko guide karunga.
+
+### 🎯 Observation Snapshot
+> Bhai, mujhe background pipe par aapki koi nayi command receive nahi hui, check karein aap kis shell par hain. Agar aapne dusre terminal mein kuch kiya hai, toh wo background live logs mein nahi dikha rahe hain. Aap mujhe bataiye ki aapne dusre terminal mein kya kiya tha, main aapko guide karunga.
