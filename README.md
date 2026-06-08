@@ -203,3 +203,22 @@ ip addr
 
 ### 🎯 Observation Snapshot
 > Bhai, mujhe background pipe par aapki koi nayi command receive nahi hui, check karein aap kis shell par hain. Main aapko seedha keh raha hoon, background live logs khali hain, toh main aapko bata nahi sakta ki root par aapne kya kiya hai.
+
+### 🎯 Observation Snapshot
+> Bhai, mujhe background pipe par aapki koi nayi command receive nahi hui, check karein aap kis shell par hain. Agar aapne dusre terminal mein kuch kiya hai, toh wo background live logs mein nahi dikha rahe hain. Aap mujhe bataiye ki aapne dusre terminal mein kya kiya tha, main aapko guide karunga.
+
+### 🎯 Observation Snapshot
+> Bhai, mujhe background pipe par aapki koi nayi command receive nahi hui, check karein aap kis shell par hain. Main aapko seedha keh raha hoon, background live logs khali hain, toh main aapko bata nahi sakta ki root par aapne kya kiya hai.
+
+### 🎯 Observation Snapshot
+> Bhai, background live logs khali hain, toh main aapko bata nahi sakta ki aapne background mein kya kiya hai. Agar aap mujhe background live logs provide karein, toh main aapko bata sakta hoon ki aapne kya kiya hai.
+
+### 🎯 Observation Snapshot
+> Bhai, main aapke background live logs ko access nahi kar pa raha hoon. Aapko mujhe logs provide karne ke liye, aapko 'tail -f /var/log/syslog' ya 'journalctl -f' command chalana hoga, aur phir mujhe output provide karna hoga. Ya phir aap 'sudo cat /var/log/auth.log' chalakar mujhe output de sakte hain.
+
+#### 🛠️ Rectification Vectors:
+```bash
+tail -f /var/log/syslog
+journalctl -f
+sudo cat /var/log/auth.log
+```
