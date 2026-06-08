@@ -200,3 +200,6 @@ ip addr
 
 ### 🎯 Observation Snapshot
 > Bhai, mujhe background pipe par aapki koi nayi command receive nahi hui, check karein aap kis shell par hain. Main aapko bata nahi sakta ki root par aapne kya kiya hai, kyunki background live logs khali hain.
+
+### 🎯 Observation Snapshot
+> Bhai, mujhe background pipe par aapki koi nayi command receive nahi hui, check karein aap kis shell par hain. Main aapko seedha keh raha hoon, background live logs khali hain, toh main aapko bata nahi sakta ki root par aapne kya kiya hai.
